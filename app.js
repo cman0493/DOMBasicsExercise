@@ -26,6 +26,7 @@ const aTag = document.querySelector('a');
 aTag.href = `https://www.choosechicago.com/articles/food-drink/5-classic-chicago-foods/`;
 
 // 9
+const h1 = document.getElementsByName(`h1`);
 h1.classList.add('background', 'text-color');
 
 // 10
